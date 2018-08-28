@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "SSEasyLayout"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "SSEasyLayout is a Objective C framework to make easy your Layout constraint in code."
 
   # This description is used to generate tags and improve search results.
